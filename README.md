@@ -1,9 +1,14 @@
+<div align="center">
+  <div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F7F7F7&background=00FF9600&center=true&vCenter=true&width=435&lines=Hi, 👋🏻 I'm Ash" alt="Typing SVG" /></a>
+  </div>
+  <p>
+    After spending many years in the sales industry, I made the decision to transition to the tech field to pursue my true passion.
+    <br>
+    Throughout my career in sales, I gained valuable experience working closely with clients, understanding their needs, and finding innovative solutions to help them achieve their goals. While I enjoyed the interpersonal aspect of sales, I found my true fulfillment in tackling complex problems and finding creative ways to solve them. This led me to discover my natural affinity for coding and its limitless possibilities.
+  </p>
+</div>
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋+I'm+Ash!&color=FFFFFF)](https://git.io/typing-svg)
-
-After spending many years in the sales industry, I made the decision to transition to the tech field to pursue my true passion.
-
-Throughout my career in sales, I gained valuable experience working closely with clients, understanding their needs, and finding innovative solutions to help them achieve their goals. While I enjoyed the interpersonal aspect of sales, I found my true fulfillment in tackling complex problems and finding creative ways to solve them. This led me to discover my natural affinity for coding and its limitless possibilities.
 
 <h2 align="center">Languages and Frameworks</h2>
 
@@ -52,3 +57,4 @@ Throughout my career in sales, I gained valuable experience working closely with
   </a>
 </div>
 
+](url)
