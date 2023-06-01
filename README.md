@@ -4,4 +4,3 @@
 
 ## Languages and Tools: -->
 
-<img src="https://media.giphy.com/media/cQNRp4QA8z7B6/giphy.gif" />
