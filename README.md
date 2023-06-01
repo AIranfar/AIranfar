@@ -1,5 +1,8 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋+I'm+Ash!)](https://git.io/typing-svg)
 
+After spending many years in the sales industry, I made the decision to transition to the tech field to pursue my true passion.
+
+Throughout my career in sales, I gained valuable experience working closely with clients, understanding their needs, and finding innovative solutions to help them achieve their goals. While I enjoyed the interpersonal aspect of sales, I found my true fulfillment in tackling complex problems and finding creative ways to solve them. This led me to discover my natural affinity for coding and its limitless possibilities.
 
 ## Languages and Tools:
 
