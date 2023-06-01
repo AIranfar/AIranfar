@@ -40,5 +40,9 @@ Throughout my career in sales, I gained valuable experience working closely with
 
 <br />
 
-[![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=airanfar)](https://github.com/AIranfar/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/AIranfar/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=airanfar" alt="Ash's GitHub stats">
+  </a>
+</div>
 
