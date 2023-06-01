@@ -1,5 +1,5 @@
 
-  ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋+I'm+Ash!)](https://git.io/typing-svg)
+  ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋+I'm+Ash!&color=ff0000)](https://git.io/typing-svg)
 
 After spending many years in the sales industry, I made the decision to transition to the tech field to pursue my true passion.
 
