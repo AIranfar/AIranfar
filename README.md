@@ -5,5 +5,5 @@
 
 
 
-[![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash)](https://github.com/AIranfar/github-readme-stats)
+[![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=airanfar)](https://github.com/AIranfar/github-readme-stats)
 
