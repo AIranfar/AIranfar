@@ -56,5 +56,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=airanfar" alt="Ash's GitHub stats">
   </a>
 </div>
-
-](url)
