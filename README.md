@@ -9,6 +9,13 @@
   </p>
 </div>
 
+<h3>Connect With Me:<h3>
+  
+  <div>
+  <a href="https://www.linkedin.com/in/ashkaun-iranfar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <h2 align="center">Languages and Frameworks</h2>
 
