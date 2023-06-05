@@ -9,9 +9,8 @@
   </p>
 </div>
 
-<h3>Connect With Me:<h3>
+<h3>💬 Connect With Me:<h3>
   
-## 💬 Get in touch
 - LinkedIn: https://www.linkedin.com/in/brian-khoo-4121b087/](https://www.linkedin.com/in/ashkaun-iranfar/
 - Phone: (818) 577-5577
 - Email: ashkauniranfar@gmail.com 
