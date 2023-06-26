@@ -13,7 +13,7 @@
   
 - [LinkedIn](https://www.linkedin.com/in/ashkaun-iranfar/)       
 - [Portfolio Website](https://airanfar.github.io/)
-- Email: ashkauniranfar@gmail.com 
+- ashkauniranfar@gmail.com 
 
 <h2 align="center">Languages and Frameworks</h2>
 
