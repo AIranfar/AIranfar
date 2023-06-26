@@ -13,7 +13,6 @@
   
 - [LinkedIn](https://www.linkedin.com/in/ashkaun-iranfar/)       
 - [Portfolio Website](https://airanfar.github.io/)
-- Phone: (818) 577-5577
 - Email: ashkauniranfar@gmail.com 
 
 <h2 align="center">Languages and Frameworks</h2>
