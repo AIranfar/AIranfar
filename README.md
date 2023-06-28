@@ -52,12 +52,5 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 </div>
 
-</div>
-  
-<br />
 
-<div align="center">
-  <a href="https://github.com/AIranfar/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=airanfar" alt="Ash's GitHub stats">
-  </a>
-</div>
+
