@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F7F7F7&background=00FF9600&center=true&vCenter=true&width=435&lines=Hi%2C+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Ash!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF0000&background=00FF9600&center=true&vCenter=true&width=435&lines=Hi%2C+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Ash!" alt="Typing SVG" /></a>
   </div>
   <p>
     After spending many years in the sales industry, I made the decision to transition to the tech field to pursue my true passion.
