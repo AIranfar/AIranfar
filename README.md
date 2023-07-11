@@ -14,6 +14,9 @@
   <p>
     In my freetime, I enjoy watching sports, spending time with family and friends, playing with my two dogs, and playing golf. 
   </p>
+  <p>
+    Please reach out via email or Linkedin if you have further questions or would like to collaborate.
+  </p>
 </div>
 
 <h3>💬 Connect With Me:<h3>
